@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="yellow_label">Yellow</string>
+    <string name="red_label">Red</string>
+    <string name="green_label">Green</string>
+    <string name="blue_label">Blue</string>
+</resources>
